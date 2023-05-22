@@ -1,6 +1,7 @@
 import React from "react";
-// import "/Section1.css"
+import "./Section1.css"
 import Navbar from "./Navbar";
+import Footer from "./Footer";
 
 
 const myStyle={
@@ -59,6 +60,7 @@ function Home() {
   
 </section>
     </div>
+    <Footer/>
               
       
       <script type="text/javascript" src="main.js"></script>
