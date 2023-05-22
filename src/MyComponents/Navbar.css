@@ -1,0 +1,26 @@
+#navbarSupportedContent{
+    margin-left: 890px;
+  }
+  .nav-item{
+    margin-left: 30px;
+  }
+  
+  .navbar-brand{
+    margin-left: 20px;
+    color: white;
+    
+    
+  }
+  #mynav{
+    
+    
+    font-weight: bold;
+    opacity: 1;
+    
+  }
+  #header h1{
+    margin:0px;
+}
+#lastitem{
+  margin-right: 0;
+}
